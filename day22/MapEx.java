@@ -1,6 +1,4 @@
-package day12.day22;
 import java.util.HashMap;
-
 class MapEx{
     public static void main(String[] args) {
         HashMap<String,Integer> map= new HashMap<>();

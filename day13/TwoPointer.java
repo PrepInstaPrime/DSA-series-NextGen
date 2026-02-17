@@ -1,4 +1,4 @@
-package day12.day13;
+package day13;
 import java.lang.reflect.Array;
 import java.util.Arrays;
 public class TwoPointer {
