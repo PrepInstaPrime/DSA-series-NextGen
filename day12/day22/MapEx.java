@@ -1,3 +1,4 @@
+package day12.day22;
 import java.util.HashMap;
 
 class MapEx{

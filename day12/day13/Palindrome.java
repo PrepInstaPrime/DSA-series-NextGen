@@ -1,3 +1,4 @@
+package day12.day13;
 
 public class Palindrome {
     public static boolean check(String str){

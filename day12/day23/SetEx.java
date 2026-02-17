@@ -1,4 +1,4 @@
-package day23;
+package day12.day23;
 import java.util.HashSet;
 class SetEx{
     public static void main(String[] args) {
