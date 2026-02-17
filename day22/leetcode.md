@@ -80,3 +80,7 @@ class Solution {
 # Home Work
 - https://leetcode.com/problems/buddy-strings/description/ (DoorDash, FaceBook, Google)
 - https://leetcode.com/problems/valid-anagram/description/ ( Facebook, Bloomberg, Amazon, Spotify, Microsoft, Apple, cisco, databricks, Facebook, Goldman sachs, Google, Microsoft, Oracle, PayPal, Snapchat, Uber, yahoo)
+- https://leetcode.com/problems/isomorphic-strings/description/ (Amazon, LinkedIn, Google, Yahoo, salesforce, Oracle, Microsoft, Facebook, Bloomberg)
+- https://leetcode.com/problems/jewels-and-stones/description/ (Amazon, Adobe, Google, Apple, Facebook)
+- https://leetcode.com/problems/word-pattern/description/ (Amazon, Bolt, Uber, Adobe, uber, Microsoft, Google, Facebook, Dropbox) 
+
